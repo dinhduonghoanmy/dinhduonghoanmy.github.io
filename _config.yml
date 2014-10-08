@@ -1,11 +1,9 @@
 # Site settings
-title: LuncheryVN
+title: Dinh dưỡng Hoàn Mỹ
 email: luncheryvn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ghé thăm LuncheryVn.net và đặt ngay một bữa trưa ngon lành! Hệ thống book món ăn trên web tiên phong tại Việt Nam.
-  Vận chuyển đúng giờ và chuyên nghiệp. Vào ngay LuncheryVn.Net và đăng ký để được giảm 50% xuất đặt hàng đầu tiên!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://luncheryvn.net" # the base hostname & protocol for your site
+url: "http://blog.dinhduonghoanmy.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 
 # Build settings

@@ -6,8 +6,8 @@
   {% for post in items offset: offset limit: limit %}
   <div class="post-list__post">
     <header>
-      <a class="post-list__post-image" href="{{post.url}}">
-        <img src="{{post.image}}" alt="{{post.title}}">
+      <a style="background-image:url({{post.image}})"
+         class="post-list__post-image" href="{{post.url}}">
       </a>
       <h6 class="post-list__post__title">
         <a href="{{post.url}}">{{ post.title }}</a>
